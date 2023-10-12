@@ -1,5 +1,3 @@
 pandas
 sklearn
 streamlit 
-MultiOutputClassifier
-CountVectorizer
