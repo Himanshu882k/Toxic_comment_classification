@@ -1,3 +1,4 @@
+C:\Users\himan>python -m pip install --upgrade pip
 pandas
 sklearn
 streamlit 
