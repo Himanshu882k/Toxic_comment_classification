@@ -12,7 +12,7 @@ import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 
 # Load the trained model and CountVectorizer
-with open('model_lr_m.h5', 'rb') as model_file, open('count_vec.h5', 'rb') as vectorizer_file:
+with open('deployment/model_lr_m.h5', 'rb') as model_file, open('deployment/count_vec.h5', 'rb') as vectorizer_file:
     model = pickle.load(model_file)
     vectorizer = pickle.load(vectorizer_file)
 
