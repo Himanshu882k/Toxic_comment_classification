@@ -2,5 +2,3 @@ pip==23.2.1
 pandas
 scikit-learn
 streamlit 
-MultiOutputClassifier
-CountVectorizer
