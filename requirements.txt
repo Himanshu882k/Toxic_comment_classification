@@ -1,6 +1,6 @@
 pip==23.2.1
 pandas
-sklearn
+scikit-learn
 streamlit 
 CountVectorizer
 MultiOutputClassifier
